@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26133'
     url: http://www.gutenberg.org/2009/agents/26133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23928#The-Short-Life
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-12-20'
 gutenberg_type: Text
